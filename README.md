@@ -5,6 +5,8 @@ To Run the application
 2. Navigate to the project directory
 3. Install dependencies with `yarn install`
 
+The application is deployed to aws s3 and served via cloudfront. Url can be accessed here https://d3t037sflfmxw4.cloudfront.net/
+
 ### `npm start`
 
 Runs the app in the development mode.\
